@@ -1,1 +1,1 @@
-# MyPythonProjects
+This is one of many projects I have done over the years! Although all of them will be uploaded this year, they are old projects that I have transffered to this GitHub Location for easy access. I plan to work on more projects and upload them in various repos. I will also add notes to ones I have worked on in the past and when I worked on them. Thanks!
